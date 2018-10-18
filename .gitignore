@@ -60,3 +60,6 @@ build/
 
 # next.js build output
 .next
+
+.DS_Store
+/*/*/.DS_Store
